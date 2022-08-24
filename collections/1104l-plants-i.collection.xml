@@ -1,49 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jeffrey Mahr">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12079</md:content-id>
-  <md:title>(1104L) Plants I</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>d66dc4b9-b934-4c51-89b5-c9482490bc75</md:uuid>
-<md:slug>1104l-plants-i</md:slug>
-</metadata>
-
+    <md:content-id>col12079</md:content-id>
+    <md:title>(1104L) Plants I</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>d66dc4b9-b934-4c51-89b5-c9482490bc75</md:uuid>
+    <md:slug>1104l-plants-i</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m63192"/>
-        
-      
-    
-    
-      <col:module document="m63195"/>
-        
-      
-    
-    
-      <col:module document="m63194"/>
-        
-      
-    
-    
-      <col:module document="m63196"/>
-        
-      
-    
-    
-      <col:module document="m63197"/>
-        
-      
-    
+    <col:module document="m63192"/>
+    <col:module document="m63195"/>
+    <col:module document="m63194"/>
+    <col:module document="m63196"/>
+    <col:module document="m63197"/>
   </col:content>
 </col:collection>
